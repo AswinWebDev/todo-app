@@ -1,0 +1,34 @@
+.todo {
+  text-align: center;
+  font-family: "Mynerve", cursive;
+  font-size: 5rem;
+  background-color: #dbe168;
+}
+.search-box {
+  font-size: 3rem;
+  padding: 5px;
+  margin: 4% 0;
+  font-family: "Mynerve", cursive;
+}
+.search-button {
+  font-size: 3rem;
+  padding: 5px;
+  margin: 4% 0;
+  font-family: "Mynerve", cursive;
+}
+.todo-box {
+  display: flex;
+  width: 100%;
+  font-size: 3rem;
+  border: 1px solid black;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #4ad78c;
+  justify-content: start;
+}
+.checkbox {
+  width: 3rem;
+  height: 3rem;
+  margin-right: 10rem;
+  /* margin-top: 25px; */
+}
