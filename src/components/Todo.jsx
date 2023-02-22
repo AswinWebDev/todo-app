@@ -27,7 +27,7 @@ class Todo extends Component {
             <input
               className="search-box"
               type="search"
-              placeholder="search here!"
+              placeholder="type here!"
             />
             <button className="search-button" type="submit">
               Add
